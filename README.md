@@ -2,9 +2,9 @@
 
 I am a IT student in University Of Mumbai.
 
-![GitHub Follow](https://img.shields.io/github/followers/anay-joshi.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/anay-joshi?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anay-joshi.anay-joshi)
+![GitHub Follow](https://img.shields.io/github/followers/ayan-joshi.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/ayan-joshi?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayan-joshi.ayan-joshi)
 
 
 <br/>
