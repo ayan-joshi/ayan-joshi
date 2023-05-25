@@ -29,7 +29,7 @@ I am a IT student in University Of Mumbai.
 
 
 
-<img align="left" alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anay-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
+<img align="left" alt="Ayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayan-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayan-joshi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
