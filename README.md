@@ -1,36 +1,34 @@
-# Hello, I'm AYAN JOSHI
+## Hey there, I am Ayan! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## Introduction
+I am a IT student in University Of Mumbai.
 
-I am a second-year IT B.Tech student passionate about software development and web technologies. I have experience working with HTML, CSS, C++, Python, Django, and JavaScript. I enjoy creating web applications and solving problems using my programming skills.
-
-## Skills
-
-- HTML
-- CSS
-- C++
-- Python
-- Django
-- JavaScript
-
-## Projects
-
-https://github.com/ayan-joshi/objectdetector
-
-https://github.com/ayan-joshi/to-do-list
-
-## Education
-
-- University Of Mumbai - B.Tech in Information Technology (2021-25)
-- Terna Engineering College 
+![GitHub Follow](https://img.shields.io/github/followers/anay-joshi.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/anay-joshi?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anay-joshi.anay-joshi)
 
 
-## Connect with Me
+<br/>
+📩 How to reach me 
+<br/>
 
-- LinkedIn: https://www.linkedin.com/in/ayan-joshi-8568701ab/
-- Twitter: https://twitter.com/Ayan_joshi_
+[![Linkedin Badge](https://img.shields.io/badge/-ayananupjoshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayananupjoshi/)](https://www.linkedin.com/in/ayan-joshi-8568701ab/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayanjoshi182003@gmail.com)](mailto:ayanjoshi182003@gmail.com)
+⚙ Tools and Technologies
 
-Feel free to connect with me to discuss collaboration opportunities, programming, or anything related to the technologies mentioned above. I'm always excited to learn and grow in the field of software development.
+<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a></a><a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a><a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="aws" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="aws" width="40" height="40"/> </a> </p>
+<!-- ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex) -->
 
-Thank you for visiting my profile!
+
+- 🔭 I’m currently working on improving my Problem Solving Skills.
+- 🌱 I’m currently learning React JS.
+- 👯 I’m looking to collaborate on Django.
+- 🤔 I’m looking for help with Competitive Programming.
+
+
+
+<img align="left" alt="Anay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anay-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayan-joshi)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
