@@ -33,10 +33,13 @@ I am a IT student in University Of Mumbai.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayan-joshi)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-Program Participated in:
-![What-is-GirlScript-Summer-of-Code-and-How-to-Participate](https://github.com/ayan-joshi/ayan-joshi/assets/96243602/323b1060-44a0-43e4-9875-702389d427c6)
-![Screenshot 2023-10-01 180619](https://github.com/ayan-joshi/ayan-joshi/assets/96243602/908bd06d-cbd5-4de6-9e2e-8303789e44d5)
+OPEN SOURCE PROGRAMS COMPETED:
 
+<!-- First image with rotation -->
+<img src="https://github.com/ayan-joshi/ayan-joshi/assets/96243602/323b1060-44a0-43e4-9875-702389d427c6" alt="GirlScript Summer of Code" width="200" style="transform: rotate(-5deg);">
+
+<!-- Second image with rotation -->
+<img src="https://github.com/ayan-joshi/ayan-joshi/assets/96243602/908bd06d-cbd5-4de6-9e2e-8303789e44d5" alt="Screenshot 2023-10-01 180619" width="200" style="transform: rotate(5deg);">
 
 
 
