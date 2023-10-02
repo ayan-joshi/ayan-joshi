@@ -41,6 +41,10 @@ OPEN SOURCE PROGRAMS COMPETED:
 <!-- Second image with rotation -->
 <img src="https://github.com/ayan-joshi/ayan-joshi/assets/96243602/908bd06d-cbd5-4de6-9e2e-8303789e44d5" alt="Screenshot 2023-10-01 180619" width="200" style="transform: rotate(5deg);">
 
+HACKTOBERFEST 2023 
+
+[![An image of @ayanjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayanjoshi)](https://holopin.io/@ayanjoshi)
+
 
 
 
