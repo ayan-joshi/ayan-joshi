@@ -31,7 +31,7 @@ I am a IT student in University Of Mumbai.
 
 <img align="left" alt="Ayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayan-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayan-joshi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayan-joshi)](https://git.io/streak-stats)
 
 ## OPEN SOURCE PROGRAMS COMPETED:
 
