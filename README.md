@@ -50,7 +50,6 @@ I am a IT student in University Of Mumbai.
 
 [![An image of @ayanjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayanjoshi)](https://holopin.io/@ayanjoshi)
 
-[![An image of @ayanjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayanjoshi)](https://holopin.io/@ayanjoshi)
 
 
 
