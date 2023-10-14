@@ -24,7 +24,7 @@ I am a IT student in University Of Mumbai.
 
 - 🔭 I’m currently working on improving my Problem Solving Skills.
 - 🌱 I’m currently learning React JS.
-- 👯 I’m looking to collaborate on Django.
+- 👯 I’m looking to collaborate on Frontend Development.
 - 🤔 I’m looking for help with Competitive Programming.
 
 
