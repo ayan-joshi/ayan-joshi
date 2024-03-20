@@ -7,6 +7,9 @@ I am a IT student in University Of Mumbai.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayan-joshi.ayan-joshi)
 
 
+<a href=#><img src="contributions.svg"></a>
+
+
 <br/>
 📩 How to reach me 
 <br/>
