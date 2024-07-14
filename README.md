@@ -53,6 +53,12 @@ I am a IT student in University Of Mumbai.
 
 [![An image of @ayanjoshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayanjoshi)](https://holopin.io/@ayanjoshi)
 
+<p>
+	<a href="https://community.vaunt.dev/board/ayan-joshi">
+		<img src="https://api.vaunt.dev/v1/github/entities/ayan-joshi/achievements/6be582b1-6b1f-4ebc-884b-5a44b7721516?format=svg&style=raw" width="300"/>
+	</a>
+</p>
+
 
 
 
