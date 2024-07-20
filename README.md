@@ -36,15 +36,6 @@ I am a IT student in University Of Mumbai.
 	</a>
 </p>
 
-<p>
-	<a href="https://community.vaunt.dev/board/intrepidbird">
-		<img src="https://api.vaunt.dev/v1/github/entities/intrepidbird/achievements/6be582b1-6b1f-4ebc-884b-5a44b7721516?format=svg&style=raw" width="300"/>
-	</a>
-</p>
-
-
-
-
 
 <img align="left" alt="Ayan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayan-joshi&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
 
